@@ -87,6 +87,7 @@ const styles = {
         width: "20%",
         textAlign: "left",
         fontWeight: 700,
+       color: "#56A0C9",
         fontSize: {
             smd: "1.5rem",
             lsm: "1.2rem",
@@ -95,7 +96,7 @@ const styles = {
         },
         transition: "0.3s ease",
         "&:hover": {
-            color: "primary.main"
+            color: "primary"
         }
     }
 };

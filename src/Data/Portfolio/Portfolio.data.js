@@ -8,12 +8,12 @@ export default [
         name: "Loja Virtual Epis",
         filter: "loja",
         image: Loja,
-        url: ""
+        url: "https://cristalepisloja.com.br/"
     },
     {
         name: "Site Institucional",
         filter: "institucional",
         image: Institucional,
-        url: "/"
+        url: "https://www.cristalepis.com.br/"
     },
 ];
