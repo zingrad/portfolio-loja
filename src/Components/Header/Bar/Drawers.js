@@ -23,14 +23,14 @@ const Drawers = ({ toggleDrawer }) => {
         <Box>
             <Stack direction="row" sx={{ alignItems: "center" }}>
                 <Box sx={{ flex: 1, mt: "5px" }}>
-                    <Image src={Logo} width={150} height={150} alt="Loja no Ar Logo" />
+                    <Image src={Logo} width={150} height={150} alt="Negócio no ar Logo" />
                 </Box>
                 <ButtonBase onClick={toggleDrawer(false)} sx={styles.CrossButton}>
                     <CloseRoundedIcon />
                 </ButtonBase>
             </Stack>
             <Typography variant="body1" component="p" sx={styles.Description}>
-                Somos a <strong>Loja no Ar</strong>, especialistas em criar lojas virtuais personalizadas para empresas de todos os tamanhos. Unimos design, tecnologia e performance para transformar sua presença online e aumentar suas vendas. Nosso compromisso é entregar soluções completas, funcionais e com ótima usabilidade.
+                Somos a <strong>Negócio no Ar</strong>, especialistas em criar lojas virtuais personalizadas para empresas de todos os tamanhos. Unimos design, tecnologia e performance para transformar sua presença online e aumentar suas vendas. Nosso compromisso é entregar soluções completas, funcionais e com ótima usabilidade.
             </Typography>
             <Box sx={styles.Navs}>
                 {Navs &&

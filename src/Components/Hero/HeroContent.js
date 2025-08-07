@@ -12,7 +12,7 @@ const HeroContent = () => {
         <Box sx={styles.Container}>
             <Typography variant="h2" component="h2" sx={styles.Title}>
                 Nós somos a<br />
-                Loja no Ar
+                Négocio no Ar
             </Typography>
             <Typography variant="h6" component="h6" sx={styles.Slogan}>
                 Seu negócio online começa agora

@@ -29,7 +29,7 @@ const BottomFooter = () => {
             <Box sx={{ display: { smd: "block", xxs: "none" } }}>
                 <Stack direction="row" sx={{ alignItems: "center" }}>
                     <Typography variant="body1" component="p" sx={styles.Copyright}>
-                        © {new Date().getFullYear()} Loja no Ar. Todos os direitos reservados.
+                        © {new Date().getFullYear()} Negócio no Ar. Todos os direitos reservados.
                     </Typography>
                 </Stack>
             </Box>

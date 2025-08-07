@@ -17,7 +17,7 @@ const Myself = () => {
             <Box sx={{ width: { md: "35%", xxs: "100%" } }}>
                 <Typography variant="h4" component="h4" sx={styles.Title}>
                     Conheça a <br />
-                    Loja no Ar
+                    Negócio no Ar
                 </Typography>
                 <Typography variant="body1" component="p" sx={styles.Description}>
                   Construímos lojas virtuais pensadas para o seu público, com design responsivo e tecnologia que acompanha o crescimento da sua empresa.
@@ -54,7 +54,7 @@ const Myself = () => {
                     </ButtonBase>
                 </Link>
             </Box>
-            <Box component="img" src={AboutImage} alt="Sobre Loja no Ar" sx={styles.Image} />
+            <Box component="img" src={AboutImage} alt="Sobre Négocio no Ar" sx={styles.Image} />
         </Box>
     );
 };
