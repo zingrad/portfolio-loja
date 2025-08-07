@@ -5,7 +5,7 @@ import HeroContent from "Components/Hero/HeroContent";
 
 // Images
 import HeroPng from "Assets/hero/hero.jpg";
-import Particle from "Assets/hero/particle.png";
+
 
 //Styles
 import styles from "Styles/Hero/Hero.styles";
