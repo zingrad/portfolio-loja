@@ -10,7 +10,7 @@ const Heads = () => {
                 property="og:description"
                 content="Especialistas em criação de lojas virtuais personalizadas com WordPress e WooCommerce. Design moderno, integração com meios de pagamento e suporte completo para seu e-commerce."
             />
-            <title>Loja Expert | Criação de Lojas Virtuais Profissionais</title>
+            <title>Négocio no Ar | Criação de Sites Profissionais</title>
             <meta
                 name="description"
                 content="Criamos lojas virtuais sob medida com WordPress e WooCommerce. Oferecemos soluções modernas, rápidas, com integração de pagamento e foco em conversão. Ideal para pequenos e médios negócios que querem crescer online."
