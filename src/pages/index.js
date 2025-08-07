@@ -16,7 +16,6 @@ const index = () => {
       <Hero />
       <About />
       <Portfolio />
-      <Client />
       <Footer />
     </>
   );
