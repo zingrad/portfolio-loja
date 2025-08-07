@@ -1,6 +1,6 @@
 // Imagens
 import Loja from "Assets/portfolio/loja-cristal.png";
-import Institucional from "Assets/portfolio/site-Institucional.png";
+import Institucional from "Assets/portfolio/site-institucional.png";
 
 
 export default [

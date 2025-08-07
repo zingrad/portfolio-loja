@@ -10,7 +10,6 @@ import Work from "Components/Portfolio/Work";
 import Portfolios from "Data/Portfolio/Portfolio.data";
 
 // Estilos
-import Particle from "Assets/portfolio/particle.png";
 import styles from "Styles/Portfolio/Portfolio.styles";
 
 const Portfolio = () => {
