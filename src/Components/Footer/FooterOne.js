@@ -19,30 +19,16 @@ const FooterOne = () => {
                 <Image src={Logo} width={250} height={250} alt="Logo Loja Expert" />
             </Box>
 
-            <Stack direction="row" sx={styles.Address}>
-                <Box>
-                    <EmailIcon />
-                </Box>
-                <Box>
-                    <Link href="mailto:contato@lojaexpert.com.br" passHref>
-                        <a>
-                            <Typography variant="body1" component="p">
-                                contato@lojaexpert.com.br
-                            </Typography>
-                        </a>
-                    </Link>
-                </Box>
-            </Stack>
 
             <Stack direction="row" sx={styles.Address}>
                 <Box>
                     <PhoneIcon />
                 </Box>
                 <Box>
-                    <Link href="tel:+5511999999999" passHref>
+                    <Link href="https://w.app/ltv5t0" passHref>
                         <a>
                             <Typography variant="body1" component="p">
-                                +55 11 99999-9999
+                                +55 11 95749-5187
                             </Typography>
                         </a>
                     </Link>

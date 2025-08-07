@@ -1,54 +1,19 @@
 // Imagens
-import Loja from "Assets/portfolio/work.png";
+import Loja from "Assets/portfolio/loja-cristal.png";
+import Institucional from "Assets/portfolio/site-Institucional.png";
 
 
 export default [
     {
-        name: "Loja Virtual para Pet Shop",
+        name: "Loja Virtual Epis",
         filter: "loja",
         image: Loja,
-        url: "/"
+        url: ""
     },
     {
-        name: "Loja Virtual para Roupas",
-        filter: "loja",
-        image: Loja,
-        url: "/"
-    },
-    {
-        name: "Site Institucional para Escritório de Advocacia",
+        name: "Site Institucional",
         filter: "institucional",
-        image: Loja,
+        image: Institucional,
         url: "/"
     },
-    {
-        name: "Site Institucional para Clínica de Estética",
-        filter: "institucional",
-        image: Loja,
-        url: "/"
-    },
-    {
-        name: "Landing Page para Lançamento de Produto",
-        filter: "landing",
-        image: Loja,
-        url: "/"
-    },
-    {
-        name: "Landing Page para Captura de Leads",
-        filter: "landing",
-        image: Loja,
-        url: "/"
-    },
-    {
-        name: "Identidade Visual para Marca de Café",
-        filter: "design",
-        image: Loja,
-        url: "/"
-    },
-    {
-        name: "Identidade Visual para Loja de Cosméticos",
-        filter: "design",
-        image: Loja,
-        url: "/"
-    }
 ];
