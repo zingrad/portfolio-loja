@@ -15,13 +15,6 @@ const styles = {
             zIndex: "-2"
         }
     },
-    Particle: {
-        position: "absolute",
-        top: "5%",
-        width: "90%",
-        height: "40em",
-        zIndex: "-1"
-    },
     ButtonGroup: {
         "& .MuiTabs-flexContainer": {
             flexWrap: "wrap",
